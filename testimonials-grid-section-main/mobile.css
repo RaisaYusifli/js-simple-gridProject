@@ -1,0 +1,13 @@
+.grid-container{
+    display: flex;
+    flex-direction: column;
+}
+.grid-container>div{
+    padding: 3rem;
+}
+body{
+    font-size: 1.3rem;
+}
+.grid-item1{
+    height: 40rem;
+}
